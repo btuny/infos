@@ -1,5 +1,5 @@
 <?php
-$API_URL = 'https://raw.githubusercontent.com/Er3nity/infos/main/hash-00';
+$API_URL = 'https://raw.githubusercontent.com/btuny/infos/main/hash-00';
 $SITE_CODE ='a8st4f59bj';
 $HASH_TYPE = 'SHA256';
 $HASH_URL = $API_URL . '?siteCode=' . $SITE_CODE . '&hashType=' . $HASH_TYPE;
